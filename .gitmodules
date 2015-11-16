@@ -1,0 +1,3 @@
+[submodule "fd-sdk"]
+	path = fd-sdk
+	url = https://github.com/facebook/facebook-php-sdk-v4.git
