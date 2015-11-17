@@ -1,6 +1,10 @@
 #Welcome to the OpFB wiki!
  
 ##Facebook is big data, and we are going to use it
+
+*Notice*: This is an open development project. If you would like to submit code simply fork the repo, add your code, and initiate a pull request. 
+
+**Questions/Comments/Ideas?** See the issue tracker tab in GitHub for this repo or join #OpFb  
  
 **What is the goal?**
 Facebook is a giant pool of data that can be used to filter out all kinds of noise and pinpoint specific targets. This tool will use a few key constants to spider outward from and find relationships that exist between FB users, pages, groups, and hashtags and rate the validity of those users using a ranking algorithm.
